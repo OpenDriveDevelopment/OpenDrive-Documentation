@@ -9,8 +9,8 @@ nav_order: 2
 
 ### **Clone the Repository**
 Follow these steps to get a local copy of the project:
-1. Clone the repository: `git clone https://github.com/your_username/opendrive-framework.git>
-2. Navigate to the project root: `cd OpenDrive>
+1. Clone the repository: `git clone https://github.com/your_username/opendrive-framework.git`
+2. Navigate to the project root: `cd OpenDrive`
 3. Install the dependencies: `pip install -r requirements.txt`
 
 ### **Fork the Repository**
