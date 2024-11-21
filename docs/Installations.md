@@ -1,9 +1,11 @@
 ---
-title: Code
+title: Installations
+layout: default
 nav_order: 2
 ---
 
 # Installations
+{: .no_toc }
 
 ### **Clone the Repository**
 Follow these steps to get a local copy of the project:
