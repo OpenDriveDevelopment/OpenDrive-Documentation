@@ -51,7 +51,7 @@ Follow these steps to install Docker Compose on your system:
 
 First, make sure you have docker-compose installed. Then:
 
-1. Download this docker-compose file to a preferred location.
+1. [Download this docker-compose  file](https://quix.io/docs/quix-streams/tutorials/docker-compose.yml) to a preferred location.
 2. From its directory, run `docker-compose up -d`.  
    It sets up everything automatically, running it in the background!
 
