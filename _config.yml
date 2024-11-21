@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: OpendDrive Documentation
+description: OpenDrive Framework is an open-source project designed to accelerate the development of autonomous driving systems.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://OpenDriveDevelopment.github.io/OpenDrive-Documentation
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://OpenDriveDevelopment.github.io/OpenDrive-Documentation
