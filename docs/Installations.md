@@ -9,19 +9,19 @@ nav_order: 2
 
 ### **Clone the Repository**
 Follow these steps to get a local copy of the project:
-1. Clone the repository: `<git clone https://github.com/your_username/opendrive-framework.git>`
-2. Navigate to the project root: `<cd OpenDrive>`
-3. Install the dependencies: `<pip install -r requirements.txt>`
+1. Clone the repository: `git clone https://github.com/your_username/opendrive-framework.git>
+2. Navigate to the project root: `cd OpenDrive>
+3. Install the dependencies: `pip install -r requirements.txt`
 
 ### **Fork the Repository**
 Follow these steps to create your own copy of the project repository:
 
 1. Fork the repository on GitHub: [https://github.com/OpenDriveDevelopment/OpenDrive](https://github.com/OpenDriveDevelopment/OpenDrive)
-2. Clone your fork: `<git clone https://github.com/YOUR_USERNAME/OpenDrive.git>`
-3. Navigate to the project root: `<cd OpenDrive>`
-4. Add the original repository as the upstream remote: `<git remote add upstream https://github.com/OpenDriveDevelopment/OpenDrive.git>`
-5. Fetch updates from the original repository: `<git fetch upstream>`
-6. Merge changes into your local copy: `<git merge upstream/main>`
+2. Clone your fork: `git clone https://github.com/YOUR_USERNAME/OpenDrive.git`
+3. Navigate to the project root: `cd OpenDrive`
+4. Add the original repository as the upstream remote: `git remote add upstream https://github.com/OpenDriveDevelopment/OpenDrive.git`
+5. Fetch updates from the original repository: `git fetch upstream`
+6. Merge changes into your local copy: `git merge upstream/main`
 
 ### **Install Docker Compose**
 Follow these steps to install Docker Compose on your system:
