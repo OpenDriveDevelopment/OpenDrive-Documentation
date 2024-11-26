@@ -7,8 +7,9 @@ permalink: /
 {: .fs-9 }
 # OpenDrive Framework
 
-{: .fs-6 .fw-250 }
+{: .fs-6 .fw-350 }
 OpenDrive Framework is an open-source project designed to accelerate the development of autonomous driving systems.It provides a modular structure and the necessary tools to create a complete development environment for autonomous vehicles.
+
 OpenDrive Framework allows developers to work on detection, perception, and decision-making components, facilitating the creation of custom autonomous systems.
 
 
@@ -17,13 +18,11 @@ OpenDrive Framework allows developers to work on detection, perception, and deci
 ---
 
 {: .warning }
+
 > This software is for educational purposes only . USE THE SOFTWARE AT YOUR OWN RISK. THE AUTHORS AND ALL AFFILIATES ASSUME NO RESPONSIBILITY FOR YOUR TRADING RESULTS.
 > We strongly recommend you to have basic coding skills and Python knowledge.
 
 ---
-
-{: .warning }
-> Hola warning
 
 
 ## Objective
