@@ -3,7 +3,7 @@ title: Basic-Usage
 nav_order: 3
 ---
 
-# Utilities
+# Basic usage
 {: .no_toc }
 
 Basic way to use the framework
