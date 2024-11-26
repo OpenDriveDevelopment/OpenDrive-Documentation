@@ -15,7 +15,6 @@ defaults:
       layout: "default"
 
 
-callouts_level: quiet # or loud
 callouts:
   highlight:
     color: yellow
