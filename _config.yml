@@ -15,5 +15,20 @@ defaults:
       layout: "default"
 
 aux_links:
-  View on Github: https://OpenDriveDevelopment.github.io/OpenDrive-Documentation
+  "View on Github": -"https://github.com/OpenDriveDevelopment"
   
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
