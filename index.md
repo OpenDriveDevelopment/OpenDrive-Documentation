@@ -17,7 +17,7 @@ OpenDrive Framework allows developers to work on detection, perception, and deci
 
 ---
 
-{: .warning }
+{: .Warning }
 
 > This software is for educational purposes only . USE THE SOFTWARE AT YOUR OWN RISK. THE AUTHORS AND ALL AFFILIATES ASSUME NO RESPONSIBILITY FOR YOUR TRADING RESULTS.
 > We strongly recommend you to have basic coding skills and Python knowledge.
