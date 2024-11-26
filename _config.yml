@@ -14,7 +14,7 @@ defaults:
     values:
       layout: "default"
 
-
+callouts_level: loud # or loud
 callouts:
   highlight:
     color: yellow
