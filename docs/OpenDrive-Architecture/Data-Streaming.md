@@ -1,6 +1,6 @@
 ---
 title: Data Streaming
-parent: OpenDrive-Architecture
+parent: OpenDrive architecture
 nav_order: 2
 ---
 
