@@ -1,5 +1,6 @@
 ---
 title: Sensors
+parent: Modules
 nav_order: 1
 ---
 
