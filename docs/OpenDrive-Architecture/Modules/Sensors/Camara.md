@@ -1,7 +1,6 @@
 ---
 title: Camara
 parent: Sensors
-nav_order: 1
 ---
 
 # Camara
