@@ -35,10 +35,54 @@ The module produces results in textual format, such as:
 
 ```json
 {
-    "lane_change_safe": true,
-    "object_in_path": "Pedestrian",
-    "free_space": "Left and Forward",
-    "traffic_sign_detected": "Stop Sign",
-    "recommended_action": "Brake"
+    "timestamp": "2024-02-01 10:30:90:2334",
+    "traffic_signs": [
+        {
+            "type": "speed limit = 60",
+            "presition": 90,
+            "action":"reduce speed"
+        },
+        {
+            "type": "red light",
+            "presition": 80,
+            "action": "stop"
+        }
+    ],
+    "lane_change": {
+        "left_change": true,
+        "right_change": false
+    },
+    "front_road_obstacles": [
+        {
+            "type": "car",
+            "presition": 90,
+            "distance (mts)": 2,
+            "close_to_side": "left", // left - right - center
+            "action": "caution" // caution - break
+        }
+    ],
+    "side_obstacles": [
+        {
+            "side": "left",
+            "type": "car",
+            "presition": 90,
+            "action": "caution" // caution
+        },
+        {
+            "side": "right",
+            "type": "car",
+            "presition": 90,
+            "action": "caution" // caution
+        },
+    ],
+    "rear_road_obstacles":[
+        {
+            "type": "car",
+            "presition": 90,
+            "distance (mts)": 2,
+            "close_to_side": "center", // left - right - center
+            "action": "avoid_sudden_break" // avoid_sudden_break
+        }
+    ]
 }
 ```
