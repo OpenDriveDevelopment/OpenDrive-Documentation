@@ -7,8 +7,6 @@ nav_order: 1
 # Sensors
 {: .no_toc }
 
-### **Sensors Module**
-
 The Sensors Module is a foundational component of the framework, designed to abstract the functionality of different types of sensors that a self-driving system might use, such as cameras, LIDARs, radars, and proximity sensors.
 
 #### **Key Features**
@@ -35,11 +33,11 @@ While cameras are the primary focus now, the module's abstract and modular desig
 #### **Usage Example**
 Developers can create a new sensor class by inheriting from `Sensor` and implementing the required abstract methods. For instance, a camera sensor might look like this:
 
-```python
+```py
 class CameraSensor(Sensor):
     def start_sensing(self):
         print("Camera sensing started.")
 
     def stop_sensing(self):
         print("Camera sensing stopped.")
-
+```
