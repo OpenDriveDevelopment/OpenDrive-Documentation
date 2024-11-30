@@ -101,4 +101,4 @@ async def main():
         print("No cameras found.")
 ```
 {: .note }
-> By following these steps, you will be able to easily configure and use camera sensors in the framework. In the future, you will be able to integrate other sensor types, such as LIDAR or radars, using a similar approach.
+By following these steps, you will be able to easily configure and use camera sensors in the framework. In the future, you will be able to integrate other sensor types, such as LIDAR or radars, using a similar approach.
