@@ -1,6 +1,7 @@
 ---
 title: Basic Usage
 parent: Guides
+nav_order: 1
 ---
 
 # Basic Usage
