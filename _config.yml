@@ -7,6 +7,8 @@ url: https://OpenDriveDevelopment.github.io/OpenDrive-Documentation
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/FullLogoOpenDrive.png"
 
+color_scheme: dark
+
 defaults:
   - scope:
       path: "docs" # an empty string here means all files in the project
